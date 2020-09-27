@@ -1,0 +1,133 @@
+.top-container{
+    background-color:#ffd3e1;
+    position:relative; 
+    height:600px;
+}
+
+.bottom-container{
+
+    background-color:#8675a9;
+    height:100px;
+    padding: 50px, 0, 20px;
+    
+    }
+
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color:#726a95 ;
+    font-weight: bolder;
+    
+}
+
+h1{
+    
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 100px;
+    font-family: 'Sacramento', cursive;
+    font-size: 400%;
+    color: #8675a9;
+}
+h3{
+    #7fdbda;
+}
+body{
+    margin:0;
+    text-align:center;
+    font-family: 'Merriweather', serif;
+}
+.girl
+{
+    
+    height:300px;
+    width:300px;
+    border-radius: 50%;
+    position:absolute;
+    bottom:50px; 
+    right:518px;
+
+}
+.cloud1{
+    position:absolute;
+    right:300px; 
+    height:100px;
+    width:130px;
+}
+.cloud2{
+    position:absolute;
+    left:300px;
+    height:100px;
+    width:130px;
+}
+.tech
+{
+    height:200px;
+    width:200px;
+    float:left;
+    padding-right: 20px;
+}
+.tech2{
+    float:right;
+    width:25%;
+    height:200px;
+    width:200px;
+    border-radius: 50%;
+}
+
+.profileimg{
+    height: 200px;
+    width:200px;
+    border-radius: 50%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.skill-row{
+    width:50%;
+    margin:0 auto 0 auto;
+    text-align:left;
+}
+hr{
+    border-style: none;
+border-top-style: dotted;
+border-color:#8225d8;
+border-width:6px;
+width:5%;
+}
+.btn {
+    margin-bottom: 40px;
+}
+.contact-me{
+    width: 30%;
+    margin:40px auto 60px;
+
+}
+.btn {
+	box-shadow: 0px 0px 3px 2px #af8baf;
+	background:linear-gradient(to bottom, #af8baf 5%, #af8baf 100%);
+	background-color:#7fdbda;
+	border-radius:10px;
+	border:1px solid #af8baf;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0px 0px 4px #af8baf;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.a{
+    
+    
+}
